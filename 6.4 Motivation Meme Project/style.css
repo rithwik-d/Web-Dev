@@ -1,0 +1,25 @@
+img{
+    width: 100%;
+    border: 2px solid white;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+    margin-top: 200px
+}
+
+html{
+    background-color: black;
+}
+
+.text1{
+    font-family: libre baskerville, serifs;
+    text-transform: uppercase;
+}
+
+.text2{
+    font-family: libre baskerville, serifs;
+}
