@@ -4,12 +4,13 @@
   "description": "",
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "sillyname": "^0.1.0"
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
   }
 }
