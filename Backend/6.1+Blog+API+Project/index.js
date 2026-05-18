@@ -95,7 +95,7 @@ app.patch("/posts/:id", (req, res) => {
     if (author) {
       posts[postIndex].author = author;
     }
-    res.json(posts[postIndex]);
+    res.json/(posts[postIndex]);
   } else {
     res.status(404).json({ error: "Post not found" });
   }
