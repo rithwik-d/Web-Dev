@@ -20,8 +20,7 @@ db.connect();
 
 let items = [
   { id: 1, title: "Buy milk" },
-  { id: 2, title: "Finish homework" },
-];
+  { id: 2, title: "Finish homework" },];
 
 app.get("/", async (req, res) => {
   try{
